@@ -1,3 +1,3 @@
-# Personal-Website
+# Personal-Website hosted on GitHub
 
-http://www.daveyhernandez.net
+https://dave9011.github.io/
